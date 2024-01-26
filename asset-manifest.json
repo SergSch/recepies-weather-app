@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recepies-weather-app/static/css/main.c505ae33.css",
+    "main.js": "/recepies-weather-app/static/js/main.abbaec87.js",
+    "index.html": "/recepies-weather-app/index.html",
+    "main.c505ae33.css.map": "/recepies-weather-app/static/css/main.c505ae33.css.map",
+    "main.abbaec87.js.map": "/recepies-weather-app/static/js/main.abbaec87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c505ae33.css",
+    "static/js/main.abbaec87.js"
+  ]
+}

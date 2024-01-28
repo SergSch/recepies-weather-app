@@ -1,0 +1,10 @@
+.wrap {
+  width: clamp(18.75rem, 11.932rem + 34.09vw, 37.5rem);
+  margin: 50px auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

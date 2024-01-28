@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/recepies-weather-app/static/css/main.c505ae33.css",
-    "main.js": "/recepies-weather-app/static/js/main.abbaec87.js",
+    "main.css": "/recepies-weather-app/static/css/main.bd7b7b85.css",
+    "main.js": "/recepies-weather-app/static/js/main.7dc91b76.js",
+    "static/media/drizzle.png": "/recepies-weather-app/static/media/drizzle.3caab4390b35486e7644.png",
+    "static/media/clouds.png": "/recepies-weather-app/static/media/clouds.7483085dcd1b9e56c542.png",
+    "static/media/mist.png": "/recepies-weather-app/static/media/mist.1c4c075f981822bd3e4e.png",
+    "static/media/clear.png": "/recepies-weather-app/static/media/clear.9668469af8b7c947556e.png",
+    "static/media/rain.png": "/recepies-weather-app/static/media/rain.0a5a2d5bdb047e497f4d.png",
+    "static/media/snow.png": "/recepies-weather-app/static/media/snow.7c61de1f30b49f9622cd.png",
+    "static/media/Frame 3.svg": "/recepies-weather-app/static/media/Frame 3.88cb4268c507e5c6fd2f43c3c4cdb6c8.svg",
     "index.html": "/recepies-weather-app/index.html",
-    "main.c505ae33.css.map": "/recepies-weather-app/static/css/main.c505ae33.css.map",
-    "main.abbaec87.js.map": "/recepies-weather-app/static/js/main.abbaec87.js.map"
+    "main.bd7b7b85.css.map": "/recepies-weather-app/static/css/main.bd7b7b85.css.map",
+    "main.7dc91b76.js.map": "/recepies-weather-app/static/js/main.7dc91b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.c505ae33.css",
-    "static/js/main.abbaec87.js"
+    "static/css/main.bd7b7b85.css",
+    "static/js/main.7dc91b76.js"
   ]
 }
